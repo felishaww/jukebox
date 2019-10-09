@@ -33,15 +33,13 @@ class Search extends Component {
             
             <View style={{marginTop: 60}}>
 
-            <Text style={{fontSize: 24, fontWeight:'700', marginHorizontal: 20, color:'white'}}>
-                Your top genre
-            </Text>
-
             
+
+            <Genre/>
 
 
             </View>
-            <Genre/>
+            
             
             </ScrollView>
 
